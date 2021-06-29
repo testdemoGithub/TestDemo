@@ -1,0 +1,9 @@
+{
+	"name": "TestCodeDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09e380a6-f873-4b95-a911-22e91615ea97",
+		"tenantId": "189de737-c93a-4f5a-8b68-6f4ca9941912"
+	}
+}
